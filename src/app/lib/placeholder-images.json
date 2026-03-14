@@ -1,0 +1,35 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-illustration",
+      "description": "Minimalist line art illustration of a person working on a laptop with negative space.",
+      "imageUrl": "https://picsum.photos/seed/portfolio-hero/600/400",
+      "imageHint": "minimalist laptop"
+    },
+    {
+      "id": "project-aera",
+      "description": "Aviation management platform icon or screenshot.",
+      "imageUrl": "https://picsum.photos/seed/aera/800/500",
+      "imageHint": "aviation app"
+    },
+    {
+      "id": "project-zonodev",
+      "description": "Software studio branding image.",
+      "imageUrl": "https://picsum.photos/seed/zonodev/800/500",
+      "imageHint": "studio development"
+    },
+    {
+      "id": "project-automation",
+      "description": "Automation tools and scripts illustration.",
+      "imageUrl": "https://picsum.photos/seed/automation/800/500",
+      "imageHint": "automation code"
+    },
+    {
+      "id": "project-portfolio",
+      "description": "Modern dark portfolio preview.",
+      "imageUrl": "https://picsum.photos/seed/portfolio/800/500",
+      "imageHint": "web design"
+    }
+  ]
+}
