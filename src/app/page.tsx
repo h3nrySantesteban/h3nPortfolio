@@ -1,6 +1,7 @@
 
 import { Hero } from "@/components/portfolio/hero";
 import { Skills } from "@/components/portfolio/skills";
+import { Services } from "@/components/portfolio/services";
 import { Projects } from "@/components/portfolio/projects";
 import { Contact } from "@/components/portfolio/contact";
 
@@ -9,6 +10,7 @@ export default function Home() {
     <div className="min-h-screen bg-background selection:bg-primary selection:text-primary-foreground">
       <main className="max-w-[900px] mx-auto px-6 lg:px-0">
         <Hero />
+        <Services />
         <Skills />
         <Projects />
         <Contact />

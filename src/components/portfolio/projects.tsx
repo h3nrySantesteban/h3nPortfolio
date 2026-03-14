@@ -75,7 +75,6 @@ function ProjectGrid({ projects, getImage }: { projects: typeof PROJECTS, getIma
                   alt={project.title}
                   fill
                   className="object-cover opacity-80 group-hover:opacity-100 group-hover:scale-110 transition-all duration-500"
-                  data-ai-hint={imgData.imageHint}
                 />
               )}
               <div className="absolute inset-0 bg-gradient-to-t from-card to-transparent opacity-60" />
